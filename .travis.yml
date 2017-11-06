@@ -1,2 +1,2 @@
-language:jave
-sudo:required
+language: jave
+sudo: required
